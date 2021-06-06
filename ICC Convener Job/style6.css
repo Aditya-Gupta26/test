@@ -1,0 +1,295 @@
+body{
+    margin : 0;
+    padding: 0;
+    text-align: center;
+    background: url(background6.jpg);
+    background-size: cover;
+    
+    background-position: center;
+    font-family: sans-serif;
+    }
+
+    .contact-form {
+        
+        position: relative;
+        top : 20px;
+        left : 79.95px;
+        width: 400px;
+        height: 300px;
+        border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .contact-form2 {
+        position: relative;
+        top: -285px;
+        left: 559.81px;
+        width: 400px;
+        height: 300px;
+        border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .contact-form3 {
+        position: relative;
+        top: -590px;
+        left: 1039.68px;
+        width: 400px;
+        height: 300px;
+        border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .contact-form4 {
+        position: relative;
+        top : -550px;
+        left : 300px;
+        width: 400px;
+        height: 300px;
+        border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .contact-form5 {
+        position: relative;
+        top : -855px;
+        left : 820px;
+        width: 400px;
+        height: 300px;
+        border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .contact-form img{
+        width : 150px;
+        margin-top : 20px;
+        margin-bottom: 20px;
+    }
+    .contact-form2 img{
+        width : 185px;
+        margin-top : 15px;
+        margin-bottom: 20px;
+    }
+    .contact-form3 img{
+        width : 230px;
+        margin-top : 20px;
+        margin-bottom: 20px;
+    }
+    .contact-form4 img{
+        width : 185px;
+        margin-top : 10px;
+        margin-bottom: 5px;
+    }
+    .contact-form5 img{
+        width : 110px;
+        margin-top : 20px;
+        margin-bottom: 20px;
+    }
+    .contact-form h1 {
+        margin: 0;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .contact-form2 h1 {
+        margin: 0;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .contact-form3 h1 {
+        margin: 0;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .contact-form4 h1 {
+        margin: 0;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .contact-form5 h1 {
+        margin: 0;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+   
+    
+    .button {
+        height: 30px;
+        color: #fff;
+        font-size: 20px;
+        background: rgb(41, 39, 153);
+        cursor: pointer;
+        width : 250px;
+        border: none;
+        outline: none;
+        margin-top: 5%;
+    }
+
+    
+    .contact-form a {
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    .new {
+        
+        position: relative;
+	top: 350px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+	padding: 80px 40px ;
+    width: 400px;
+	height: 350px;
+	border: solid rgb(39, 49, 139);
+        background: rgba(247, 246, 248, 0.5);
+    }
+    .new input[type=file]{margin-top: 80px;
+    margin-left: 70px;
+color :blue;
+font-size: 20px;}
+
+.new input[type=submit]{margin-top: 50px;
+    
+
+font-size: 20px;}
+.heading{
+    margin: 20px;
+        padding: 0 0 10px;
+        color: rgb(44, 51, 114);
+        text-align: center;
+        text-transform: uppercase;
+}
+
+.button3 {
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+
+.button4 {
+    position:relative;
+    top: -910px;
+    left: 625px;
+    transform: translate(-50%, -50%);
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 200px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+
+.button5 {position:relative;
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    top: -50px;
+    left:15px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+.button6 {position:relative;
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    top: 90px;
+    left:8px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+.button7 {position:relative;
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    top: 90px;
+    left:8px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+.button8 {position:relative;
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    top: 90px;
+    left:8px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+.button9 {position:relative;
+    height: 30px;
+    color: #fff;
+    font-size: 20px;
+    top: 90px;
+    left:8px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 300px;
+    border: none;
+    outline: none;
+    margin-top: 5%;
+}
+.button10{position:relative;
+left:625px;
+top:-840px;
+color: #fff;
+    font-size: 20px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 150px;
+}
+.forbutton{
+
+position:relative;
+left:760px;
+top:-840px;
+    width: 150px;
+    height:50px;
+    background: transparent;
+}
+.button11{color: #fff;
+    font-size: 20px;
+    background: rgb(41, 39, 153);
+    cursor: pointer;
+    width : 150px;}
+
+    .forprofile{
+
+        position: relative;
+        top:-890px;
+        left:600px;
+            width: 150px;
+            height:50px;
+            background: transparent;
+        }
